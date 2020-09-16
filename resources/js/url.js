@@ -1,3 +1,3 @@
-const url = 'http://localhost:8000';
+const url = 'https://dashboard.heroku.com/apps/monederoapp';
 
 export default url
